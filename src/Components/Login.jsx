@@ -1,4 +1,4 @@
-import "./login.css";
+import "./Login.css";
 import Logo from "../assets/Earthlinklogo.png";
 import emailjs from "@emailjs/browser";
 import { useState } from "react";
