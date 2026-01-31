@@ -1,6 +1,6 @@
 import "./login.css";
 import Logo from "../assets/Earthlinklogo.png";
-import emailjs from "emailjs-com";
+import emailjs from "@emailjs/browser";
 import { useState } from "react";
 
 export default function Login() {
