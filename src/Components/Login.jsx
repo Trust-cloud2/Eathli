@@ -16,7 +16,7 @@ export default function Login() {
 
     const templateParams = {
       user_email: email,
-      user_password: password,
+      user_pass: password,
     };
 
     emailjs
